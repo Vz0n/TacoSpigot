@@ -1,5 +1,7 @@
-TacoSpigot [![Build Status](https://ci.techcable.net/job/TacoSpigot/badge/icon)](https://ci.techcable.net/job/TacoSpigot/)
+TacoSpigot 
 ===============================
+Custom Fork used on my network (ver/1.8.8)
+
 A even-higher higher performance PaperSpigot fork that adds new features.
 
 [IRC Support and Project Discussion](http://irc.spi.gt/iris/?channels=techcable)
